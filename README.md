@@ -10,3 +10,5 @@ Este repositorio forma parte de la práctica inicial de GitHub, donde aprendo a 
 > Práctica Clase 3: aprendí la diferencia entre las ramas "master" y "main", configuré Git para usar "main" por defecto y probé el comando `gitk` para visualizar el historial de commits de forma gráfica.
 
 > Práctica Clase 4: confirmé la conexión SSH definitiva, aprendí a hacer `pull` antes de cada `push` y a invitar colaboradores al proyecto.
+
+> Práctica Clase 5: aprendí a crear y subir etiquetas (tags) en Git para identificar versiones importantes del proyecto. Practiqué cómo listarlas y comprender su utilidad en el control de versiones.
